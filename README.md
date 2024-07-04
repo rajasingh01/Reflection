@@ -3,7 +3,7 @@ Reflected parameters checker for a list of urls. (Beta version needing a lot of 
 
 ## Install:
 ```bash
-$ git clone https://github.com/mathis2001/Reflection
+git clone https://github.com/mathis2001/Reflection
 ```
 
 ## Usage:
